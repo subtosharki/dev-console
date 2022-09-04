@@ -1,0 +1,16 @@
+{
+  "name": "dev-console",
+  "version": "1.0.0",
+  "description": "a console wrapper to make a developers life easier",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subtosharki/dev-console.git"
+  },
+  "author": "subtosharki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subtosharki/dev-console/issues"
+  },
+  "homepage": "https://github.com/subtosharki/dev-console#readme"
+}
